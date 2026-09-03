@@ -1,0 +1,28 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_today"
+        android:icon="@drawable/ic_today"
+        android:title="Дневник" />
+
+    <item
+        android:id="@+id/nav_calendar"
+        android:icon="@drawable/ic_calendar"
+        android:title="Календарь" />
+
+    <item
+        android:id="@+id/nav_profile"
+        android:icon="@drawable/ic_profile"
+        android:title="Профиль" />
+
+    <item
+        android:id="@+id/nav_articles"
+        android:icon="@drawable/ic_articles"
+        android:title="Статьи" />
+
+    <item
+        android:id="@+id/nav_settings"
+        android:icon="@drawable/ic_settings"
+        android:title="Настройки" />
+
+</menu>
